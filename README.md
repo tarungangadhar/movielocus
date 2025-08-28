@@ -2,7 +2,7 @@
 
 Website:- https://huggingface.co/spaces/vtarungangadhar/Movie_Locus
 
-Report:- 
+Report:- https://github.com/tarungangadhar/movielocus/blob/main/MovieRecommendationSystem.pdf
 
 An interactive movie recommendation system built with **Streamlit**.  
 It suggests similar movies based on content features using a **cosine similarity approach** on preprocessed movie embeddings.
