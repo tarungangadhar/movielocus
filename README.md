@@ -26,7 +26,7 @@ It suggests similar movies based on content features using a **cosine similarity
 ##  Usage
 ### 1. Clone the repo
 bash-
-git clone https://github.com/vtarungangadhar/movielocus.git
+git clone https://github.com/tarungangadhar/movielocus.git
 cd movie-recommender
 
 2. Install dependencies
