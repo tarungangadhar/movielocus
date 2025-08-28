@@ -39,3 +39,4 @@ streamlit run app.py
 This project includes a Procfile and setup.sh for easy deployment to Heroku or Streamlit Cloud.
 
 # Example
+https://github.com/tarungangadhar/movielocus/blob/main/Example.png
